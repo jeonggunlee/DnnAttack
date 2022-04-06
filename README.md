@@ -8,7 +8,7 @@ One pixel attack for a Deep Neural Network
 
 * Youtube
    * https://www.youtube.com/watch?v=1-wKbWH5wCc
-
+   * https://www.youtube.com/watch?v=SA4YEAWVpbk
 
 * Source
    * https://github.com/Hyperparticle/one-pixel-attack-keras
