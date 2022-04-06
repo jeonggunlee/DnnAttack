@@ -1,5 +1,5 @@
-# DnnAttack
-Attack a Deep Neural Network
+# DnnAttack: One pixel attack
+One pixel attack for a Deep Neural Network
 
 * Paper
    * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
