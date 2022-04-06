@@ -13,6 +13,8 @@ One pixel attack for a Deep Neural Network
    * [J. Z. Kolter and A. Madry: Adversarial Robustness - Theory and Practice (NeurIPS 2018 Tutorial)](https://www.youtube.com/watch?v=TwP-gKBQyic)
    * [A New Perspective on Adversarial Perturbations](https://www.youtube.com/watch?v=mUt7w4UoYqM)
    * [한국어: [Paper Review] Toward Deep Learning Models Resistant to Adversarial Attack](https://www.youtube.com/watch?v=SePQlKQd5xY)
+   * [Lec 12 : Differential Evolution](https://www.youtube.com/watch?v=xwR7WbKtylg)
+   * [Working Example of Differential Evolution (DE) Algorithm](https://www.youtube.com/watch?v=xQT5YjxgiZE)
 
 * Source
    * https://github.com/Hyperparticle/one-pixel-attack-keras
