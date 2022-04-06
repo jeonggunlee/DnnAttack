@@ -1,6 +1,9 @@
 # DnnAttack
 Attack a Deep Neural Network
 
+* Paper
+   * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
+
 * Source
    * https://github.com/Hyperparticle/one-pixel-attack-keras
 
