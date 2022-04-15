@@ -10,6 +10,7 @@ One pixel attack for a Deep Neural Network
 * Youtube
    * [One Pixel Attack | Lecture 24 (Part 2) | Applied Deep Learning](https://www.youtube.com/watch?v=1-wKbWH5wCc)
    * [One Pixel Attack Defeats Neural Networks | Two Minute Papers, Simple Explanation](https://www.youtube.com/watch?v=SA4YEAWVpbk)
+   * [One Pixel Attack by Big Data Analytics and Management Lab at UT Dallas](https://www.youtube.com/watch?v=40F0QYygj74)
    * [Adversarial Examples for Deep Neural Networks](https://www.youtube.com/watch?v=kxyacmVSGlI)
    * [J. Z. Kolter and A. Madry: Adversarial Robustness - Theory and Practice (NeurIPS 2018 Tutorial)](https://www.youtube.com/watch?v=TwP-gKBQyic)
    * [A New Perspective on Adversarial Perturbations](https://www.youtube.com/watch?v=mUt7w4UoYqM)
