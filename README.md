@@ -18,7 +18,8 @@ One pixel attack for a Deep Neural Network
    * [Working Example of Differential Evolution (DE) Algorithm](https://www.youtube.com/watch?v=xQT5YjxgiZE)
 
 * Source
-   * https://github.com/Hyperparticle/one-pixel-attack-keras
+   * [Keras Version](https://github.com/Hyperparticle/one-pixel-attack-keras)
+   * [Pytorch Version](https://github.com/DebangLi/one-pixel-attack-pytorch)
 
 
 * A tutorial on Differential Evolution with Python
