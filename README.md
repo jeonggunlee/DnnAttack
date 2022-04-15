@@ -21,6 +21,7 @@ One pixel attack for a Deep Neural Network
 * Source
    * [Keras Version](https://github.com/Hyperparticle/one-pixel-attack-keras)
    * [Pytorch Version](https://github.com/DebangLi/one-pixel-attack-pytorch)
+   * [Pytorch Attack LIBRARY](https://adversarial-attacks-pytorch.readthedocs.io/en/latest/index.html)
 
 
 * A tutorial on Differential Evolution with Python
